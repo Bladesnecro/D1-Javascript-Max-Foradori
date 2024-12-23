@@ -1,7 +1,7 @@
 # d-1-Javascript-Max Foradori
 
 ## 🔗 Links
- [-]()
+ [https://bladesnecro.github.io/D1-Javascript-Max-Foradori/-](https://bladesnecro.github.io/D1-Javascript-Max-Foradori/)
 
 ## 📫 Get in Touch
 Feel free to reach out for collaborations or inquiries:
